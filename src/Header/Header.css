@@ -1,0 +1,25 @@
+.Header {
+	background-color: #dddddd;
+	height: 60px;
+	border-bottom: 1px solid #eee;
+	display: flex;
+    justify-content: space-between;
+}
+.SignInButton
+{
+	height: 40px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 1%;
+    width: 8%;
+	font-size: 20px;
+	cursor: pointer;
+}
+.HeaderText
+{
+	margin-top: auto;
+    margin-bottom: auto;
+    color: #565656;
+    font-size: 26px;
+    margin-left: 2%;
+}
